@@ -1,0 +1,22 @@
+[07/Mar/2020:14:32:45] (ℹ️): WordPress Instance Info:
+[07/Mar/2020:14:32:45] (ℹ️): Home URL : http://appbaap.com
+[07/Mar/2020:14:32:45] (ℹ️): Site URL : http://appbaap.com
+[07/Mar/2020:14:32:45] (ℹ️): WordPress Version : 5.3.2
+[07/Mar/2020:14:32:45] (ℹ️): Onboarding Version : 1.8.2
+[07/Mar/2020:14:32:45] (ℹ️): Multisite : No
+[07/Mar/2020:14:32:45] (ℹ️): Server Info : LiteSpeed
+[07/Mar/2020:14:32:45] (ℹ️): PHP Version : 7.2.26
+[07/Mar/2020:14:32:45] (ℹ️): HTTPS : No
+[07/Mar/2020:14:32:45] (ℹ️): PHP Max Execution Time : 60
+[07/Mar/2020:14:32:45] (ℹ️): PHP Max Input Vars : 5000
+[07/Mar/2020:14:32:45] (ℹ️): Max Upload Size : 67108864
+[07/Mar/2020:14:32:45] (ℹ️): Plugins:
+[07/Mar/2020:14:32:45] (ℹ️): [PLUGIN] All-in-One WP Migration : v7.17 (ServMask)
+[07/Mar/2020:14:32:45] (ℹ️): [PLUGIN] Classic Editor : v1.5 (WordPress Contributors)
+[07/Mar/2020:14:32:45] (ℹ️): [PLUGIN] Elementor : v2.9.4 (Elementor.com)
+[07/Mar/2020:14:32:45] (ℹ️): [PLUGIN] LiteSpeed Cache : v2.9.9.2 (LiteSpeed Technologies)
+[07/Mar/2020:14:32:45] (ℹ️): [PLUGIN] Popup Maker WP : v1.2.3.0 (Popup Maker)
+[07/Mar/2020:14:32:45] (ℹ️): [PLUGIN] Rel nofollow : v1.3 (Stefano Ottolenghi)
+[07/Mar/2020:14:32:45] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.3 (Themeisle)
+[07/Mar/2020:14:32:45] (ℹ️): [PLUGIN] Visual Composer : v25.0 (visualcomposer.com)
+[07/Mar/2020:14:32:45] (ℹ️): [PLUGIN] Yoast SEO : v13.2 (Team Yoast)

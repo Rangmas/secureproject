@@ -1,0 +1,56 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+	
+	
+	
+	Log In &lsaquo; Appbaap &#8212; WordPress
+	
+
+
+
+
+
+
+	
+		
+	
+
+
+
+	
+	
+	
+		
+		Powered by WordPress
+	
+		
+			
+				Username or Email Address
+				
+			
+
+			
+				Password
+				
+					
+					
+						
+					
+				
+			
+						 Remember Me
+			
+				
+									
+									
+			
+		
+
+					
+				Register | 				Lost your password?
+			
+					
+				
+			&larr; Go to Appbaap
